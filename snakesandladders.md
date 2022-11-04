@@ -33,3 +33,4 @@ You can find the board here:
               6. Sign up the number of players and names to begin
 
 To make the game more enjoyable limit the number of users to between 1-4
+
