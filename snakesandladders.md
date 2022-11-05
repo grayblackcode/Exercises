@@ -14,7 +14,7 @@ You can find the board here:
 - For every players turn, for the dice roll be sure to print their current position and the dice roll return 
 - Define the get_position function which will find the position of the player and place on the relevant snake and ladder combinations. 
 - Define the dice roll function which takes the player, current position and updates this with the random dice roll result, returning the final position after roll 
-- Define the snake and ladder function which depedning on the players positon moves them up and down with a message 
+- Define the snake and ladder function which depending on the players position moves them up and down with a message 
 - Finally consolidate all into the play function which returns the result of the play. 
 
 ##### Rules of the games are as follows. 
